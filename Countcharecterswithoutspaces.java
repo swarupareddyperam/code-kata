@@ -18,7 +18,7 @@ class Countcharecterswithoutspaces
 
                          String ch = sc.nextLine();
 
-                          System.out.println(ch);
+                          //System.out.println(ch);
 
 		//int letter=0;
 		for(int i=0;i<ch.length();i++)
