@@ -23,7 +23,7 @@ class Strgcmp
 			System.out.println(name2);
 	    		
 	    //else
-	        //continue;
+	        
 		
 		
 	}
