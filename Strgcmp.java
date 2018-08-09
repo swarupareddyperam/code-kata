@@ -16,6 +16,8 @@ class Strgcmp
 	            int n2=name2.length();
 		if(n1>=n2)
 		    System.out.println(name1);
+		else if(n1==n2)
+	            System.out.println(name1);
 		else 
 	            System.out.println(name2);
 	}
